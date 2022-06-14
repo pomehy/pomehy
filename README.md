@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pomehy)
 
 
-<a target="_blank" href="https://t.me/cottong"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
+<a target="_blank" href="https://t.me/cottong"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=white"/></a>
 
 ## Обо мне 📋
 
