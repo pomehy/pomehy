@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🛠 Основной стек:</h3>
 - HTML, CSS
+- 
 - JS (ES6)
 - Шаблонизатор PUG
 - Семантическая верстка
