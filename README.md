@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🛠 Основной стек:</h3>
 - HTML, CSS
+<!-- - HTML, CSS
 - 
 - JS (ES6)
 - Шаблонизатор PUG
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - GULP, Webpack
 - Сборка спрайтов, Ретинизация и оптимизация изображений
 - GIT
-- Графические редакторы(Figma, Photoshop, CorelDraw)
+- Графические редакторы(Figma, Photoshop, CorelDraw) -->
 
 <h3>🔨 Знаком и использовал</h3>
 
