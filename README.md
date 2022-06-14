@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🛠 Основной стек:</h3>
 - JS / HTML / CSS
+- j
 - BEM / SASS
+- j
 - React / Redux Toolkit
 - HTML, CSS
 <!-- - HTML, CSS
