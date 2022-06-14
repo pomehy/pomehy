@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🔨 Знаком и использовал</h3>
 
+- API различных сервисов (youtube, yandex и др).
+- Изучаю React
+
 
 <details>
 <summary>Немного статистики</summary>
