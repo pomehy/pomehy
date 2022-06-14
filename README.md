@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
   В свободное время увлекаюсь музыкой, спортом. <br/>
 
 <h3>🛠 Основной стек:</h3>
+- JS / HTML / CSS
+- BEM / SASS
+- React / Redux Toolkit
 - HTML, CSS
 <!-- - HTML, CSS
 - 
