@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <p>:bar_chart: Немного статистики</p>
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=pomehy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=cfcfcf" /><br>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=pomehy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=e8e8e8" /><br>
