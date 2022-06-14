@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a target="_blank" href="https://t.me/cottong"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
+https://tenor.com/view/developer-tester-relationship-gif-23489560
 
 ## Обо мне 📋
 
